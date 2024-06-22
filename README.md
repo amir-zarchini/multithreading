@@ -2,8 +2,6 @@
 
 This repository covers content based on the "Java Multithreading, Concurrency & Performance Optimization" course by Michael Pogrebinsky on Udemy.
 
-Period: 2023.11.20 ~ 2023.12.16
-
 <details>
 <summary>1. Introduction</summary>
 
